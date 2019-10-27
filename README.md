@@ -21,3 +21,8 @@ pyinstaller --onefile PasswordManager.py
 
 ## Owner:
 - [Arbazkhan4712](https://github.com/Arbazkhan4712/)
+
+## License & Copyright
+© [Arbaz Khan](https://arbazkhan4712.github.io/Contact.html)
+
+Licensed under the [MIT License](License)
