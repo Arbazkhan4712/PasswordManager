@@ -1,6 +1,11 @@
 # PasswordManager
 It is a password manager which can generate random and secure passwords &amp; store it in a database
 
+## Video
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Q_TkZi7jDz0/0.jpg)](https://www.youtube.com/watch?v=Q_TkZi7jDz0)
+
+
 ## To Change the Password :
 
 Current Password :-
